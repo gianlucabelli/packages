@@ -1,0 +1,23 @@
+{
+  "data": {
+    "created": "2017-03-02T19:28:34Z",
+    "email": "gianluca.belli@derecom.it",
+    "expires": "2022-03-03T00:00:00Z",
+    "name": "Gianluca Belli",
+    "uuid": "c366cae4-44d1-4dd0-a457-55e95456bb34"
+  },
+  "publicKey": {
+    "algorithm": "RSA",
+    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA364zluUQIGAOlOM/Y2ggF5JNAizoPftLHbJoOIwZz4/Ieu5CSjQouxmXL+u0QZXJ/NbsArMRbPJvnOHaDMYI9gXGy9j0bQqO0z/d+MepdaB6kAb1GxF3Lj+OIvCsaUNi+2252xFt4FT07/bzlf3Nkq713lPLmOX/7NJOrLcWzHsHCyxMvmw+i8UwWcEZAFaXb7ctUFuDb86SCoew4aIRHkQ4asaqnbsTlBZr+oE8HYefmEMImk2d1hdXvIBJMYonH4+SOTtgOq9RcPtdptE+7Cofqu/M9D002BiDqRZCuY666f40tEZrogTpMSHGoOdVJMgw007QoagcTacxRJvszQIDAQAB"
+  },
+  "signatures": [
+    {
+      "name": "Gianluca Belli",
+      "uuid": "c366cae4-44d1-4dd0-a457-55e95456bb34",
+      "created": "2017-03-02T19:28:35Z",
+      "algorithm": "SHA1withRSA",
+      "nonce": "4Co60JC+hyU\u003d",
+      "signature": "lRvjYhxmBRFObgLOoohU3mMj5V/Vdn/DAz56pqI95TYuxBY9I7GmRZKfmcRranS/nzlat5U0HivjJ/cPyH32rC74V0QyWiaAYGPNeL2qfaPbkzMl8CEGAk9y2XElRpZg8QYM+B9AQVhyLvqcV8FGcttwTBbFnejCslUl4It5gusPhtvAKbLrPnfF+/+1BEqwOQ4nrWKlgjdm5se/w0gCmFJX8ScgGKc9ow//VWNfxNXQRYhQz5fBPm+Jc5lrCQIdikUQnkz9sdruDMY0LTXJI+sjKbpkFCGso7VFvlfvTzKLiu+/fhk58U5N19qqer9nSJVX1IRVjTQQWDoqW4UH4A\u003d\u003d"
+    }
+  ]
+}
